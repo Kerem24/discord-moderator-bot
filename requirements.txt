@@ -1,0 +1,10 @@
+cli-color
+concurrently
+discord-html-transcripts
+discord.js
+dotenv
+fs
+mongodb
+mongoose
+process
+eslint

@@ -1,0 +1,10 @@
+{
+  "executeCommandError": "An error occured while executing the command",
+  "executeEventdError": "An error occured while executing the event",
+
+  "executeCommandSuccess": "Command executed successfully",
+  "executeEventSuccess": "Event executed successfully",
+
+  "commandNotFound": "Command not found",
+  "eventNotFound": "Event not found"
+}
